@@ -1,0 +1,14 @@
+{
+  "name": "zdemocompdev",
+  "version": "1.0.0",
+  "description": "ZDEMOCOMPDEV",
+  "repositoryLayout": {
+    "formatVersion": 6,
+    "format": "json",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false",
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/A67933A9EACE1EDFABCCFA43DC65597E_0"
+  }
+}
